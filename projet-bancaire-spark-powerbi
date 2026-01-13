@@ -1,0 +1,9 @@
+# Power BI – Reporting
+Les données sont mises à jour quotidiennement via un pipeline Spark et exportées depuis WSL.
+
+# Contenu
+- Tableaux de bord transactions
+- Analyse fraude
+- Indicateurs clés (KPI)
+
+Les données sont exportées depuis Spark via WSL.

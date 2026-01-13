@@ -1,7 +1,7 @@
 # Projet bancaire – Spark & Power BI
 
 1- Objectif
-Concevoir un pipeline bancaire de bout en bout, de l’ingestion à la visualisation,
+Concevoir un pipeline bancaire journalier de bout en bout, de l’ingestion à la visualisation,
 avec une architecture Bronze → Argent → Or et des contraintes RGPD.
 
 2- Architecture
